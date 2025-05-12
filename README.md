@@ -2,6 +2,10 @@
 
 These are a collection of resources maintained by https://soldev.ca
 
+## Starters
+
+- [solana-bpf-program-template](https://github.com/mvines/solana-bpf-program-template): Minimal Solana BPF program template
+
 ## Open projects
 
 - [quarry](https://github.com/QuarryProtocol/quarry/tree/master): An open protocol for launching liquidity mining programs on Solana.
@@ -13,6 +17,7 @@ These are a collection of resources maintained by https://soldev.ca
 - [merkle-distributor](https://github.com/saber-hq/merkle-distributor): A program for distributing tokens efficiently via uploading a Merkle root.
 - [mango-v4](https://github.com/blockworks-foundation/mango-v4): Decentralized margin trading contracts
 - [space\_castle](https://github.com/belakm/space_castle): Solana blockchain based territorial game
+- [anchor-starter](https://github.com/solana-developers/anchor-starter): Example program for how to use PDA and CPI
 
 ## Resources
 
@@ -31,6 +36,7 @@ These are a collection of resources maintained by https://soldev.ca
 
 - [`anchor-gen`](https://github.com/saber-hq/anchor-gen): Generates an Anchor CPI crate from a JSON IDL
 - [`anchor-client-gen`](https://github.com/kklas/anchor-client-gen): Generate typescript solana web3 clients from anchor IDLs
+- [`kinobi`](https://github.com/metaplex-foundation/kinobi): Generate powerful clients for your Solana programs
 
 ## Gists
 
