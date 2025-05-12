@@ -19,6 +19,10 @@ These are a collection of resources maintained by https://soldev.ca
 - [space\_castle](https://github.com/belakm/space_castle): Solana blockchain based territorial game
 - [anchor-starter](https://github.com/solana-developers/anchor-starter): Example program for how to use PDA and CPI
 
+## Programs
+
+- [Token 2022](https://spl.solana.com/token-2022)
+
 ## Resources
 
 - [Program deploys deep dive](https://jstarry.notion.site/Program-deploys-29780c48794c47308d5f138074dd9838)
@@ -26,11 +30,23 @@ These are a collection of resources maintained by https://soldev.ca
 - [Transaction fees](https://jstarry.notion.site/Transaction-Fees-f09387e6a8d84287aa16a34ecb58e239)
 - [Transaction confirmation](https://jstarry.notion.site/Transaction-confirmation-d5b8f4e09b9c4a70a1f263f82307d7ce)
 - [Solana Cookbook](https://solanacookbook.com)
+- [Awesome Solana Security](https://github.com/0xMacro/awesome-solana-security)
 
 ## Tutorials
 
 - [Building a blog on Solana](https://dev.to/findiglay/building-a-blog-on-solana-2pg8)
 - [Create a Solana dApp from scratch](https://lorisleiva.com/create-a-solana-dapp-from-scratch)
+- [Get all program accounts](https://solana.com/developers/guides/javascript/get-program-accounts)
+- [Testing with jest and bankrun](https://solana.com/developers/guides/advanced/testing-with-jest-and-bankrun)
+
+## Concepts
+
+- [Durable nonces](https://solana.com/developers/guides/advanced/introduction-to-durable-nonces)
+- [Optimizing compute](https://solana.com/developers/guides/advanced/how-to-optimize-compute)
+- [Priority fees](https://solana.com/developers/guides/advanced/how-to-use-priority-fees)
+- [Address lookup tables](https://solana.com/developers/guides/advanced/lookup-tables)
+- [Solana test validator](https://solana.com/developers/guides/getstarted/solana-test-validator)
+- [Transfer fee extension](https://solana.com/developers/guides/token-extensions/transfer-fee)
 
 ## Clients
 
