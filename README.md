@@ -18,6 +18,7 @@ These are a collection of resources maintained by https://soldev.ca
 - [mango-v4](https://github.com/blockworks-foundation/mango-v4): Decentralized margin trading contracts
 - [space\_castle](https://github.com/belakm/space_castle): Solana blockchain based territorial game
 - [anchor-starter](https://github.com/solana-developers/anchor-starter): Example program for how to use PDA and CPI
+- [digital-nomad-exchange](https://github.com/Daktic/digital-nomad-exchange)
 
 ## Programs
 
@@ -39,6 +40,7 @@ These are a collection of resources maintained by https://soldev.ca
 - [Create a Solana dApp from scratch](https://lorisleiva.com/create-a-solana-dapp-from-scratch)
 - [Get all program accounts](https://solana.com/developers/guides/javascript/get-program-accounts)
 - [Testing with jest and bankrun](https://solana.com/developers/guides/advanced/testing-with-jest-and-bankrun)
+- [Bankrun tutorial](https://kevinheavey.github.io/solana-bankrun/tutorial)
 
 ## Concepts
 
@@ -48,6 +50,8 @@ These are a collection of resources maintained by https://soldev.ca
 - [Address lookup tables](https://solana.com/developers/guides/advanced/lookup-tables)
 - [Solana test validator](https://solana.com/developers/guides/getstarted/solana-test-validator)
 - [Transfer fee extension](https://solana.com/developers/guides/token-extensions/transfer-fee)
+- [Mollusk](https://www.anchor-lang.com/docs/testing/mollusk)
+- [LiteSVM](https://www.anchor-lang.com/docs/testing/litesvm)
 
 ## Clients
 
