@@ -22,6 +22,7 @@ These are a collection of resources maintained by https://soldev.ca
 ## Programs
 
 - [Token 2022](https://spl.solana.com/token-2022)
+- [Raydium](https://github.com/raydium-io/raydium-cpi-example)
 
 ## Resources
 
