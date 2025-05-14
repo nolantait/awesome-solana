@@ -33,6 +33,7 @@ These are a collection of resources maintained by https://soldev.ca
 - [Transaction confirmation](https://jstarry.notion.site/Transaction-confirmation-d5b8f4e09b9c4a70a1f263f82307d7ce)
 - [Solana Cookbook](https://solanacookbook.com)
 - [Awesome Solana Security](https://github.com/0xMacro/awesome-solana-security)
+- [Informal guide to Solana Snapshots](https://gist.github.com/ripatel-fd/268c88d938075537ec6431e2960f47dd)
 
 ## Tutorials
 
