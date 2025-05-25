@@ -5,6 +5,7 @@ These are a collection of resources maintained by https://soldev.ca
 ## Starters
 
 - [solana-bpf-program-template](https://github.com/mvines/solana-bpf-program-template): Minimal Solana BPF program template
+- [solana-project-template](https://github.com/metaplex-foundation/solana-project-template): Metaplex's starter
 
 ## Open projects
 
@@ -19,6 +20,7 @@ These are a collection of resources maintained by https://soldev.ca
 - [space\_castle](https://github.com/belakm/space_castle): Solana blockchain based territorial game
 - [anchor-starter](https://github.com/solana-developers/anchor-starter): Example program for how to use PDA and CPI
 - [digital-nomad-exchange](https://github.com/Daktic/digital-nomad-exchange)
+- [S](https://github.com/igneous-labs/S)
 
 ## Programs
 
@@ -42,6 +44,8 @@ These are a collection of resources maintained by https://soldev.ca
 - [Get all program accounts](https://solana.com/developers/guides/javascript/get-program-accounts)
 - [Testing with jest and bankrun](https://solana.com/developers/guides/advanced/testing-with-jest-and-bankrun)
 - [Bankrun tutorial](https://kevinheavey.github.io/solana-bankrun/tutorial)
+- [Create custom clients with Codama](https://www.quicknode.com/guides/solana-development/tooling/web3-2/program-clients)
+- [Create anchor clients with Codama](https://www.quicknode.com/guides/solana-development/anchor/codama-client)
 
 ## Concepts
 
